@@ -15,6 +15,23 @@
 		162A2B991D4852F50075B137 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 162A2B971D4852F50075B137 /* LaunchScreen.storyboard */; };
 		162A2BA41D4852F50075B137 /* _JM_____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BA31D4852F50075B137 /* _JM_____Tests.m */; };
 		162A2BAF1D4852F50075B137 /* _JM_____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BAE1D4852F50075B137 /* _JM_____UITests.m */; };
+		162A2BC51D4853640075B137 /* avatar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 162A2BBF1D4853640075B137 /* avatar.jpg */; };
+		162A2BC61D4853640075B137 /* red_dot_image_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 162A2BC01D4853640075B137 /* red_dot_image_1.png */; };
+		162A2BC71D4853640075B137 /* red_dot_image_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 162A2BC11D4853640075B137 /* red_dot_image_2.png */; };
+		162A2BC81D4853640075B137 /* red_dot_image_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 162A2BC21D4853640075B137 /* red_dot_image_3.png */; };
+		162A2BC91D4853640075B137 /* red_dot_image_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 162A2BC31D4853640075B137 /* red_dot_image_4.png */; };
+		162A2BCA1D4853640075B137 /* red_dot_image_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 162A2BC41D4853640075B137 /* red_dot_image_5.png */; };
+		162A2BD01D4853BE0075B137 /* ADRedDot.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BCF1D4853BE0075B137 /* ADRedDot.m */; };
+		162A2BDD1D4994740075B137 /* ADRedDotCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BDC1D4994740075B137 /* ADRedDotCell.m */; };
+		162A2BE21D49AE380075B137 /* ADRedDotViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BD91D4994060075B137 /* ADRedDotViewController.m */; };
+		162A2BE41D49F64C0075B137 /* loveShape.png in Resources */ = {isa = PBXBuildFile; fileRef = 162A2BE31D49F64C0075B137 /* loveShape.png */; };
+		162A2BEB1D49F8E00075B137 /* ADTableViewAnimate.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BEA1D49F8E00075B137 /* ADTableViewAnimate.m */; };
+		162A2BEF1D4A02900075B137 /* ADPopUpTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BEE1D4A02900075B137 /* ADPopUpTransition.m */; };
+		162A2BF21D4A06AB0075B137 /* ADPopUpLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BF11D4A06AB0075B137 /* ADPopUpLoginViewController.m */; };
+		162A2BF51D4ADF860075B137 /* ADPopUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BF41D4ADF860075B137 /* ADPopUpViewController.m */; };
+		162A2BF91D4AED590075B137 /* ADGooeySlideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BF81D4AED590075B137 /* ADGooeySlideViewController.m */; };
+		162A2BFC1D4AED890075B137 /* ADGooeySlide.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BFB1D4AED890075B137 /* ADGooeySlide.m */; };
+		162A2BFF1D4AF2CB0075B137 /* ADSlideMenuButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2BFE1D4AF2CB0075B137 /* ADSlideMenuButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +68,35 @@
 		162A2BAA1D4852F50075B137 /* 仿JM的多种动画UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "仿JM的多种动画UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		162A2BAE1D4852F50075B137 /* _JM_____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_JM_____UITests.m"; sourceTree = "<group>"; };
 		162A2BB01D4852F50075B137 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		162A2BBF1D4853640075B137 /* avatar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = avatar.jpg; sourceTree = "<group>"; };
+		162A2BC01D4853640075B137 /* red_dot_image_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_dot_image_1.png; sourceTree = "<group>"; };
+		162A2BC11D4853640075B137 /* red_dot_image_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_dot_image_2.png; sourceTree = "<group>"; };
+		162A2BC21D4853640075B137 /* red_dot_image_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_dot_image_3.png; sourceTree = "<group>"; };
+		162A2BC31D4853640075B137 /* red_dot_image_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_dot_image_4.png; sourceTree = "<group>"; };
+		162A2BC41D4853640075B137 /* red_dot_image_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_dot_image_5.png; sourceTree = "<group>"; };
+		162A2BCE1D4853BE0075B137 /* ADRedDot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADRedDot.h; sourceTree = "<group>"; };
+		162A2BCF1D4853BE0075B137 /* ADRedDot.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADRedDot.m; sourceTree = "<group>"; };
+		162A2BD81D4994060075B137 /* ADRedDotViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADRedDotViewController.h; sourceTree = "<group>"; };
+		162A2BD91D4994060075B137 /* ADRedDotViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADRedDotViewController.m; sourceTree = "<group>"; };
+		162A2BDB1D4994740075B137 /* ADRedDotCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADRedDotCell.h; sourceTree = "<group>"; };
+		162A2BDC1D4994740075B137 /* ADRedDotCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADRedDotCell.m; sourceTree = "<group>"; };
+		162A2BDE1D4994AB0075B137 /* ADRedDotCellModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADRedDotCellModel.h; sourceTree = "<group>"; };
+		162A2BDF1D4994AB0075B137 /* ADRedDotCellModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADRedDotCellModel.m; sourceTree = "<group>"; };
+		162A2BE31D49F64C0075B137 /* loveShape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loveShape.png; sourceTree = "<group>"; };
+		162A2BE91D49F8E00075B137 /* ADTableViewAnimate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADTableViewAnimate.h; sourceTree = "<group>"; };
+		162A2BEA1D49F8E00075B137 /* ADTableViewAnimate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADTableViewAnimate.m; sourceTree = "<group>"; };
+		162A2BED1D4A02900075B137 /* ADPopUpTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADPopUpTransition.h; sourceTree = "<group>"; };
+		162A2BEE1D4A02900075B137 /* ADPopUpTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADPopUpTransition.m; sourceTree = "<group>"; };
+		162A2BF01D4A06AB0075B137 /* ADPopUpLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADPopUpLoginViewController.h; sourceTree = "<group>"; };
+		162A2BF11D4A06AB0075B137 /* ADPopUpLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADPopUpLoginViewController.m; sourceTree = "<group>"; };
+		162A2BF31D4ADF860075B137 /* ADPopUpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADPopUpViewController.h; sourceTree = "<group>"; };
+		162A2BF41D4ADF860075B137 /* ADPopUpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADPopUpViewController.m; sourceTree = "<group>"; };
+		162A2BF71D4AED590075B137 /* ADGooeySlideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADGooeySlideViewController.h; sourceTree = "<group>"; };
+		162A2BF81D4AED590075B137 /* ADGooeySlideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADGooeySlideViewController.m; sourceTree = "<group>"; };
+		162A2BFA1D4AED890075B137 /* ADGooeySlide.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADGooeySlide.h; sourceTree = "<group>"; };
+		162A2BFB1D4AED890075B137 /* ADGooeySlide.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADGooeySlide.m; sourceTree = "<group>"; };
+		162A2BFD1D4AF2CB0075B137 /* ADSlideMenuButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADSlideMenuButton.h; sourceTree = "<group>"; };
+		162A2BFE1D4AF2CB0075B137 /* ADSlideMenuButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADSlideMenuButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +147,7 @@
 		162A2B881D4852F40075B137 /* 仿JM的多种动画 */ = {
 			isa = PBXGroup;
 			children = (
+				162A2BE31D49F64C0075B137 /* loveShape.png */,
 				162A2B8C1D4852F40075B137 /* AppDelegate.h */,
 				162A2B8D1D4852F40075B137 /* AppDelegate.m */,
 				162A2B8F1D4852F40075B137 /* ViewController.h */,
@@ -109,6 +156,7 @@
 				162A2B951D4852F50075B137 /* Assets.xcassets */,
 				162A2B971D4852F50075B137 /* LaunchScreen.storyboard */,
 				162A2B9A1D4852F50075B137 /* Info.plist */,
+				162A2BBC1D4853640075B137 /* Animation */,
 				162A2B891D4852F40075B137 /* Supporting Files */,
 			);
 			path = "仿JM的多种动画";
@@ -138,6 +186,81 @@
 				162A2BB01D4852F50075B137 /* Info.plist */,
 			);
 			path = "仿JM的多种动画UITests";
+			sourceTree = "<group>";
+		};
+		162A2BBC1D4853640075B137 /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				162A2BF61D4AED380075B137 /* GooeySlide */,
+				162A2BEC1D4A023C0075B137 /* PopUp */,
+				162A2BE81D49F8D70075B137 /* TableVIewAnimate */,
+				162A2BBD1D4853640075B137 /* RedDot */,
+			);
+			path = Animation;
+			sourceTree = "<group>";
+		};
+		162A2BBD1D4853640075B137 /* RedDot */ = {
+			isa = PBXGroup;
+			children = (
+				162A2BBE1D4853640075B137 /* RedDotImage */,
+				162A2BCE1D4853BE0075B137 /* ADRedDot.h */,
+				162A2BCF1D4853BE0075B137 /* ADRedDot.m */,
+				162A2BD81D4994060075B137 /* ADRedDotViewController.h */,
+				162A2BD91D4994060075B137 /* ADRedDotViewController.m */,
+				162A2BDB1D4994740075B137 /* ADRedDotCell.h */,
+				162A2BDC1D4994740075B137 /* ADRedDotCell.m */,
+				162A2BDE1D4994AB0075B137 /* ADRedDotCellModel.h */,
+				162A2BDF1D4994AB0075B137 /* ADRedDotCellModel.m */,
+			);
+			path = RedDot;
+			sourceTree = "<group>";
+		};
+		162A2BBE1D4853640075B137 /* RedDotImage */ = {
+			isa = PBXGroup;
+			children = (
+				162A2BBF1D4853640075B137 /* avatar.jpg */,
+				162A2BC01D4853640075B137 /* red_dot_image_1.png */,
+				162A2BC11D4853640075B137 /* red_dot_image_2.png */,
+				162A2BC21D4853640075B137 /* red_dot_image_3.png */,
+				162A2BC31D4853640075B137 /* red_dot_image_4.png */,
+				162A2BC41D4853640075B137 /* red_dot_image_5.png */,
+			);
+			path = RedDotImage;
+			sourceTree = "<group>";
+		};
+		162A2BE81D49F8D70075B137 /* TableVIewAnimate */ = {
+			isa = PBXGroup;
+			children = (
+				162A2BE91D49F8E00075B137 /* ADTableViewAnimate.h */,
+				162A2BEA1D49F8E00075B137 /* ADTableViewAnimate.m */,
+			);
+			path = TableVIewAnimate;
+			sourceTree = "<group>";
+		};
+		162A2BEC1D4A023C0075B137 /* PopUp */ = {
+			isa = PBXGroup;
+			children = (
+				162A2BED1D4A02900075B137 /* ADPopUpTransition.h */,
+				162A2BEE1D4A02900075B137 /* ADPopUpTransition.m */,
+				162A2BF01D4A06AB0075B137 /* ADPopUpLoginViewController.h */,
+				162A2BF11D4A06AB0075B137 /* ADPopUpLoginViewController.m */,
+				162A2BF31D4ADF860075B137 /* ADPopUpViewController.h */,
+				162A2BF41D4ADF860075B137 /* ADPopUpViewController.m */,
+			);
+			path = PopUp;
+			sourceTree = "<group>";
+		};
+		162A2BF61D4AED380075B137 /* GooeySlide */ = {
+			isa = PBXGroup;
+			children = (
+				162A2BF71D4AED590075B137 /* ADGooeySlideViewController.h */,
+				162A2BF81D4AED590075B137 /* ADGooeySlideViewController.m */,
+				162A2BFA1D4AED890075B137 /* ADGooeySlide.h */,
+				162A2BFB1D4AED890075B137 /* ADGooeySlide.m */,
+				162A2BFD1D4AF2CB0075B137 /* ADSlideMenuButton.h */,
+				162A2BFE1D4AF2CB0075B137 /* ADSlideMenuButton.m */,
+			);
+			path = GooeySlide;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,6 +325,7 @@
 		162A2B7E1D4852F40075B137 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = AD;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "王奥东";
 				TargetAttributes = {
@@ -246,7 +370,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				162A2BC51D4853640075B137 /* avatar.jpg in Resources */,
+				162A2BC61D4853640075B137 /* red_dot_image_1.png in Resources */,
+				162A2BC71D4853640075B137 /* red_dot_image_2.png in Resources */,
+				162A2BE41D49F64C0075B137 /* loveShape.png in Resources */,
 				162A2B991D4852F50075B137 /* LaunchScreen.storyboard in Resources */,
+				162A2BC91D4853640075B137 /* red_dot_image_4.png in Resources */,
+				162A2BCA1D4853640075B137 /* red_dot_image_5.png in Resources */,
+				162A2BC81D4853640075B137 /* red_dot_image_3.png in Resources */,
 				162A2B961D4852F50075B137 /* Assets.xcassets in Resources */,
 				162A2B941D4852F40075B137 /* Main.storyboard in Resources */,
 			);
@@ -273,8 +404,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				162A2BE21D49AE380075B137 /* ADRedDotViewController.m in Sources */,
+				162A2BDD1D4994740075B137 /* ADRedDotCell.m in Sources */,
+				162A2BEF1D4A02900075B137 /* ADPopUpTransition.m in Sources */,
+				162A2BD01D4853BE0075B137 /* ADRedDot.m in Sources */,
+				162A2BFF1D4AF2CB0075B137 /* ADSlideMenuButton.m in Sources */,
 				162A2B911D4852F40075B137 /* ViewController.m in Sources */,
+				162A2BF91D4AED590075B137 /* ADGooeySlideViewController.m in Sources */,
+				162A2BFC1D4AED890075B137 /* ADGooeySlide.m in Sources */,
+				162A2BEB1D49F8E00075B137 /* ADTableViewAnimate.m in Sources */,
+				162A2BF51D4ADF860075B137 /* ADPopUpViewController.m in Sources */,
 				162A2B8E1D4852F40075B137 /* AppDelegate.m in Sources */,
+				162A2BF21D4A06AB0075B137 /* ADPopUpLoginViewController.m in Sources */,
 				162A2B8B1D4852F40075B137 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -419,6 +560,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "仿JM的多种动画/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.aodong.-JM-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -430,6 +572,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "仿JM的多种动画/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.aodong.-JM-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
